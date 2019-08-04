@@ -37,7 +37,7 @@
    CTX <--- GPIO_5 ESP32 devkitC board
    CRX ---> 5V/3.3V level converter ---> GPIO_4
    I have used 1N5819 shotkey diode and 1kOhm pulled up to 3.3V
-   to connect CRT to ESP32. CTX is directly connected to ESP32 GPIO_5
+   to connect CRX to ESP32. CTX is directly connected to ESP32 GPIO_5
    +3.3V ----1kOhm----+
                       |
        ESP32 GPIO4 <--+----anode IN1589 cathode>|---<-CRX
