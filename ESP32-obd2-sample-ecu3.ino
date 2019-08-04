@@ -3,7 +3,8 @@
    works as a  500kHz basic CAN bus OBD2 ECU
    Author: coniferconifer
    May 19 , 2019
-
+   Copyright 2017 coniferconifer
+    
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.
   You may obtain a copy of the License at
@@ -18,7 +19,7 @@
 
 
    
-   OBD2 ECU emulator based on CAN and OBD2 library by sandeepmisry
+   OBD2 ECU emulator based on CAN and OBD2 library by sandeepmistry
    // https://github.com/sandeepmistry/arduino-CAN
    // https://github.com/sandeepmistry/arduino-OBD2
 
